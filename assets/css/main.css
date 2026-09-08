@@ -2344,3 +2344,13 @@ input, select, textarea {
 			}
 
 		}
+
+/* Paragraph */
+
+.paragraph{
+	text-align: justify;
+	color:black;
+}
+.paragraph.bold{
+	font-weight: bold;
+}
