@@ -2347,10 +2347,10 @@ input, select, textarea {
 
 /* Paragraph */
 
-.paragraph{
+.portfolioTitle{
 	text-align: justify;
 	color:black;
 }
-.paragraph.bold{
+.portfolioTitle.bold{
 	font-weight: bold;
 }
