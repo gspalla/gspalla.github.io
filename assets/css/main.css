@@ -2038,6 +2038,15 @@ input, select, textarea {
 				flex-direction: row;
 				justify-content: space-between;
 			}
+
+			@media screen and (max-width: 950px) {
+				.style4 {
+					display: flex;
+					flex-direction: column;
+					justify-content: space-between;
+				}
+			}
+
 			.style4.left {
 				display:block;
 				/*background-color: #9ac8e9;*/
